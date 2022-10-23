@@ -1,0 +1,98 @@
+D:\2022-II\AplicacionVB\CapaDatos\bin\Debug\CapaDatos.dll
+D:\2022-II\AplicacionVB\CapaDatos\bin\Debug\CapaDatos.pdb
+D:\2022-II\AplicacionVB\CapaDatos\bin\Debug\CapaDatos.xml
+D:\2022-II\AplicacionVB\CapaDatos\bin\Debug\CapaEntidad.dll
+D:\2022-II\AplicacionVB\CapaDatos\bin\Debug\CapaEntidad.pdb
+D:\2022-II\AplicacionVB\CapaDatos\bin\Debug\CapaEntidad.xml
+D:\2022-II\AplicacionVB\CapaDatos\obj\Debug\CapaDatos.vbproj.AssemblyReference.cache
+D:\2022-II\AplicacionVB\CapaDatos\obj\Debug\CapaDatos.Resources.resources
+D:\2022-II\AplicacionVB\CapaDatos\obj\Debug\CapaDatos.vbproj.GenerateResource.cache
+D:\2022-II\AplicacionVB\CapaDatos\obj\Debug\CapaDatos.vbproj.CoreCompileInputs.cache
+D:\2022-II\AplicacionVB\CapaDatos\obj\Debug\CapaDatos.vbproj.CopyComplete
+D:\2022-II\AplicacionVB\CapaDatos\obj\Debug\CapaDatos.dll
+D:\2022-II\AplicacionVB\CapaDatos\obj\Debug\CapaDatos.xml
+D:\2022-II\AplicacionVB\CapaDatos\obj\Debug\CapaDatos.pdb
+D:\2022-II\BodegaSosa\CapaDatos\bin\Debug\CapaDatos.dll
+D:\2022-II\BodegaSosa\CapaDatos\bin\Debug\CapaDatos.pdb
+D:\2022-II\BodegaSosa\CapaDatos\bin\Debug\CapaDatos.xml
+D:\2022-II\BodegaSosa\CapaDatos\bin\Debug\CapaEntidad.dll
+D:\2022-II\BodegaSosa\CapaDatos\bin\Debug\CapaEntidad.pdb
+D:\2022-II\BodegaSosa\CapaDatos\bin\Debug\CapaEntidad.xml
+D:\2022-II\BodegaSosa\CapaDatos\obj\Debug\CapaDatos.vbproj.AssemblyReference.cache
+D:\2022-II\BodegaSosa\CapaDatos\obj\Debug\CapaDatos.Resources.resources
+D:\2022-II\BodegaSosa\CapaDatos\obj\Debug\CapaDatos.vbproj.GenerateResource.cache
+D:\2022-II\BodegaSosa\CapaDatos\obj\Debug\CapaDatos.vbproj.CoreCompileInputs.cache
+D:\2022-II\BodegaSosa\CapaDatos\obj\Debug\CapaDatos.vbproj.CopyComplete
+D:\2022-II\BodegaSosa\CapaDatos\obj\Debug\CapaDatos.dll
+D:\2022-II\BodegaSosa\CapaDatos\obj\Debug\CapaDatos.xml
+D:\2022-II\BodegaSosa\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\MiguelMaquen\source\repos\BodegaSosa\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\MiguelMaquen\source\repos\BodegaSosa\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\MiguelMaquen\source\repos\BodegaSosa\CapaDatos\bin\Debug\CapaDatos.xml
+C:\Users\MiguelMaquen\source\repos\BodegaSosa\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\Users\MiguelMaquen\source\repos\BodegaSosa\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\MiguelMaquen\source\repos\BodegaSosa\CapaDatos\bin\Debug\CapaEntidad.xml
+C:\Users\MiguelMaquen\source\repos\BodegaSosa\CapaDatos\obj\Debug\CapaDatos.vbproj.AssemblyReference.cache
+C:\Users\MiguelMaquen\source\repos\BodegaSosa\CapaDatos\obj\Debug\CapaDatos.Resources.resources
+C:\Users\MiguelMaquen\source\repos\BodegaSosa\CapaDatos\obj\Debug\CapaDatos.vbproj.GenerateResource.cache
+C:\Users\MiguelMaquen\source\repos\BodegaSosa\CapaDatos\obj\Debug\CapaDatos.vbproj.CoreCompileInputs.cache
+C:\Users\MiguelMaquen\source\repos\BodegaSosa\CapaDatos\obj\Debug\CapaDatos.vbproj.CopyComplete
+C:\Users\MiguelMaquen\source\repos\BodegaSosa\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\MiguelMaquen\source\repos\BodegaSosa\CapaDatos\obj\Debug\CapaDatos.xml
+C:\Users\MiguelMaquen\source\repos\BodegaSosa\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\MiguelMaquen\Desktop\PRUEBA DE LOGRO\BodegaSosa\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\MiguelMaquen\Desktop\PRUEBA DE LOGRO\BodegaSosa\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\MiguelMaquen\Desktop\PRUEBA DE LOGRO\BodegaSosa\CapaDatos\bin\Debug\CapaDatos.xml
+C:\Users\MiguelMaquen\Desktop\PRUEBA DE LOGRO\BodegaSosa\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\Users\MiguelMaquen\Desktop\PRUEBA DE LOGRO\BodegaSosa\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\MiguelMaquen\Desktop\PRUEBA DE LOGRO\BodegaSosa\CapaDatos\bin\Debug\CapaEntidad.xml
+C:\Users\MiguelMaquen\Desktop\PRUEBA DE LOGRO\BodegaSosa\CapaDatos\obj\Debug\CapaDatos.vbproj.AssemblyReference.cache
+C:\Users\MiguelMaquen\Desktop\PRUEBA DE LOGRO\BodegaSosa\CapaDatos\obj\Debug\CapaDatos.Resources.resources
+C:\Users\MiguelMaquen\Desktop\PRUEBA DE LOGRO\BodegaSosa\CapaDatos\obj\Debug\CapaDatos.vbproj.GenerateResource.cache
+C:\Users\MiguelMaquen\Desktop\PRUEBA DE LOGRO\BodegaSosa\CapaDatos\obj\Debug\CapaDatos.vbproj.CoreCompileInputs.cache
+C:\Users\MiguelMaquen\Desktop\PRUEBA DE LOGRO\BodegaSosa\CapaDatos\obj\Debug\CapaDatos.vbproj.CopyComplete
+C:\Users\MiguelMaquen\Desktop\PRUEBA DE LOGRO\BodegaSosa\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\MiguelMaquen\Desktop\PRUEBA DE LOGRO\BodegaSosa\CapaDatos\obj\Debug\CapaDatos.xml
+C:\Users\MiguelMaquen\Desktop\PRUEBA DE LOGRO\BodegaSosa\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\MiguelMaquen\Desktop\PRUEBA DE LOGRO DIANA\TiendaMiCamilo\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\MiguelMaquen\Desktop\PRUEBA DE LOGRO DIANA\TiendaMiCamilo\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\MiguelMaquen\Desktop\PRUEBA DE LOGRO DIANA\TiendaMiCamilo\CapaDatos\bin\Debug\CapaDatos.xml
+C:\Users\MiguelMaquen\Desktop\PRUEBA DE LOGRO DIANA\TiendaMiCamilo\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\Users\MiguelMaquen\Desktop\PRUEBA DE LOGRO DIANA\TiendaMiCamilo\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\MiguelMaquen\Desktop\PRUEBA DE LOGRO DIANA\TiendaMiCamilo\CapaDatos\bin\Debug\CapaEntidad.xml
+C:\Users\MiguelMaquen\Desktop\PRUEBA DE LOGRO DIANA\TiendaMiCamilo\CapaDatos\obj\Debug\CapaDatos.vbproj.AssemblyReference.cache
+C:\Users\MiguelMaquen\Desktop\PRUEBA DE LOGRO DIANA\TiendaMiCamilo\CapaDatos\obj\Debug\CapaDatos.Resources.resources
+C:\Users\MiguelMaquen\Desktop\PRUEBA DE LOGRO DIANA\TiendaMiCamilo\CapaDatos\obj\Debug\CapaDatos.vbproj.GenerateResource.cache
+C:\Users\MiguelMaquen\Desktop\PRUEBA DE LOGRO DIANA\TiendaMiCamilo\CapaDatos\obj\Debug\CapaDatos.vbproj.CoreCompileInputs.cache
+C:\Users\MiguelMaquen\Desktop\PRUEBA DE LOGRO DIANA\TiendaMiCamilo\CapaDatos\obj\Debug\CapaDatos.vbproj.CopyComplete
+C:\Users\MiguelMaquen\Desktop\PRUEBA DE LOGRO DIANA\TiendaMiCamilo\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\MiguelMaquen\Desktop\PRUEBA DE LOGRO DIANA\TiendaMiCamilo\CapaDatos\obj\Debug\CapaDatos.xml
+C:\Users\MiguelMaquen\Desktop\PRUEBA DE LOGRO DIANA\TiendaMiCamilo\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\Lenovo\Downloads\PRUEBA DE LOGRO DIANA\TiendaMiCamilo\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Lenovo\Downloads\PRUEBA DE LOGRO DIANA\TiendaMiCamilo\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Lenovo\Downloads\PRUEBA DE LOGRO DIANA\TiendaMiCamilo\CapaDatos\bin\Debug\CapaDatos.xml
+C:\Users\Lenovo\Downloads\PRUEBA DE LOGRO DIANA\TiendaMiCamilo\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\Users\Lenovo\Downloads\PRUEBA DE LOGRO DIANA\TiendaMiCamilo\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\Lenovo\Downloads\PRUEBA DE LOGRO DIANA\TiendaMiCamilo\CapaDatos\bin\Debug\CapaEntidad.xml
+C:\Users\Lenovo\Downloads\PRUEBA DE LOGRO DIANA\TiendaMiCamilo\CapaDatos\obj\Debug\CapaDatos.vbproj.AssemblyReference.cache
+C:\Users\Lenovo\Downloads\PRUEBA DE LOGRO DIANA\TiendaMiCamilo\CapaDatos\obj\Debug\CapaDatos.Resources.resources
+C:\Users\Lenovo\Downloads\PRUEBA DE LOGRO DIANA\TiendaMiCamilo\CapaDatos\obj\Debug\CapaDatos.vbproj.GenerateResource.cache
+C:\Users\Lenovo\Downloads\PRUEBA DE LOGRO DIANA\TiendaMiCamilo\CapaDatos\obj\Debug\CapaDatos.vbproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\PRUEBA DE LOGRO DIANA\TiendaMiCamilo\CapaDatos\obj\Debug\CapaDatos.vbproj.CopyComplete
+C:\Users\Lenovo\Downloads\PRUEBA DE LOGRO DIANA\TiendaMiCamilo\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Lenovo\Downloads\PRUEBA DE LOGRO DIANA\TiendaMiCamilo\CapaDatos\obj\Debug\CapaDatos.xml
+C:\Users\Lenovo\Downloads\PRUEBA DE LOGRO DIANA\TiendaMiCamilo\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\Lenovo\Downloads\PRUEBA DE LOGRO DIANA\Boutique Cataleya\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\Lenovo\Downloads\PRUEBA DE LOGRO DIANA\Boutique Cataleya\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\Lenovo\Downloads\PRUEBA DE LOGRO DIANA\Boutique Cataleya\CapaDatos\bin\Debug\CapaDatos.xml
+C:\Users\Lenovo\Downloads\PRUEBA DE LOGRO DIANA\Boutique Cataleya\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\Users\Lenovo\Downloads\PRUEBA DE LOGRO DIANA\Boutique Cataleya\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\Lenovo\Downloads\PRUEBA DE LOGRO DIANA\Boutique Cataleya\CapaDatos\bin\Debug\CapaEntidad.xml
+C:\Users\Lenovo\Downloads\PRUEBA DE LOGRO DIANA\Boutique Cataleya\CapaDatos\obj\Debug\CapaDatos.vbproj.AssemblyReference.cache
+C:\Users\Lenovo\Downloads\PRUEBA DE LOGRO DIANA\Boutique Cataleya\CapaDatos\obj\Debug\CapaDatos.Resources.resources
+C:\Users\Lenovo\Downloads\PRUEBA DE LOGRO DIANA\Boutique Cataleya\CapaDatos\obj\Debug\CapaDatos.vbproj.GenerateResource.cache
+C:\Users\Lenovo\Downloads\PRUEBA DE LOGRO DIANA\Boutique Cataleya\CapaDatos\obj\Debug\CapaDatos.vbproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\PRUEBA DE LOGRO DIANA\Boutique Cataleya\CapaDatos\obj\Debug\CapaDatos.vbproj.CopyComplete
+C:\Users\Lenovo\Downloads\PRUEBA DE LOGRO DIANA\Boutique Cataleya\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\Lenovo\Downloads\PRUEBA DE LOGRO DIANA\Boutique Cataleya\CapaDatos\obj\Debug\CapaDatos.xml
+C:\Users\Lenovo\Downloads\PRUEBA DE LOGRO DIANA\Boutique Cataleya\CapaDatos\obj\Debug\CapaDatos.pdb
