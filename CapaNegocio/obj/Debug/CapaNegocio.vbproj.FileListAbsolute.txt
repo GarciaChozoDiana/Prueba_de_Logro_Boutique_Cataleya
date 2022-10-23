@@ -1,0 +1,119 @@
+D:\2022-II\AplicacionVB\CapaNegocio\bin\Debug\CapaNegocio.dll
+D:\2022-II\AplicacionVB\CapaNegocio\bin\Debug\CapaNegocio.pdb
+D:\2022-II\AplicacionVB\CapaNegocio\bin\Debug\CapaNegocio.xml
+D:\2022-II\AplicacionVB\CapaNegocio\bin\Debug\CapaDatos.dll
+D:\2022-II\AplicacionVB\CapaNegocio\bin\Debug\CapaEntidad.dll
+D:\2022-II\AplicacionVB\CapaNegocio\bin\Debug\CapaDatos.pdb
+D:\2022-II\AplicacionVB\CapaNegocio\bin\Debug\CapaDatos.xml
+D:\2022-II\AplicacionVB\CapaNegocio\bin\Debug\CapaEntidad.pdb
+D:\2022-II\AplicacionVB\CapaNegocio\bin\Debug\CapaEntidad.xml
+D:\2022-II\AplicacionVB\CapaNegocio\obj\Debug\CapaNegocio.vbproj.AssemblyReference.cache
+D:\2022-II\AplicacionVB\CapaNegocio\obj\Debug\CapaNegocio.Resources.resources
+D:\2022-II\AplicacionVB\CapaNegocio\obj\Debug\CapaNegocio.vbproj.GenerateResource.cache
+D:\2022-II\AplicacionVB\CapaNegocio\obj\Debug\CapaNegocio.vbproj.CoreCompileInputs.cache
+D:\2022-II\AplicacionVB\CapaNegocio\obj\Debug\CapaNegocio.vbproj.CopyComplete
+D:\2022-II\AplicacionVB\CapaNegocio\obj\Debug\CapaNegocio.dll
+D:\2022-II\AplicacionVB\CapaNegocio\obj\Debug\CapaNegocio.xml
+D:\2022-II\AplicacionVB\CapaNegocio\obj\Debug\CapaNegocio.pdb
+D:\2022-II\BodegaSosa\CapaNegocio\obj\Debug\CapaNegocio.vbproj.AssemblyReference.cache
+D:\2022-II\BodegaSosa\CapaNegocio\obj\Debug\CapaNegocio.Resources.resources
+D:\2022-II\BodegaSosa\CapaNegocio\obj\Debug\CapaNegocio.vbproj.GenerateResource.cache
+D:\2022-II\BodegaSosa\CapaNegocio\obj\Debug\CapaNegocio.vbproj.CoreCompileInputs.cache
+D:\2022-II\BodegaSosa\CapaNegocio\obj\Debug\CapaNegocio.dll
+D:\2022-II\BodegaSosa\CapaNegocio\obj\Debug\CapaNegocio.xml
+D:\2022-II\BodegaSosa\CapaNegocio\obj\Debug\CapaNegocio.pdb
+D:\2022-II\BodegaSosa\CapaNegocio\bin\Debug\CapaNegocio.dll
+D:\2022-II\BodegaSosa\CapaNegocio\bin\Debug\CapaNegocio.pdb
+D:\2022-II\BodegaSosa\CapaNegocio\bin\Debug\CapaNegocio.xml
+D:\2022-II\BodegaSosa\CapaNegocio\bin\Debug\CapaDatos.dll
+D:\2022-II\BodegaSosa\CapaNegocio\bin\Debug\CapaEntidad.dll
+D:\2022-II\BodegaSosa\CapaNegocio\bin\Debug\CapaDatos.pdb
+D:\2022-II\BodegaSosa\CapaNegocio\bin\Debug\CapaDatos.xml
+D:\2022-II\BodegaSosa\CapaNegocio\bin\Debug\CapaEntidad.pdb
+D:\2022-II\BodegaSosa\CapaNegocio\bin\Debug\CapaEntidad.xml
+D:\2022-II\BodegaSosa\CapaNegocio\obj\Debug\CapaNegocio.vbproj.CopyComplete
+C:\Users\MiguelMaquen\source\repos\BodegaSosa\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\MiguelMaquen\source\repos\BodegaSosa\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\MiguelMaquen\source\repos\BodegaSosa\CapaNegocio\bin\Debug\CapaNegocio.xml
+C:\Users\MiguelMaquen\source\repos\BodegaSosa\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\MiguelMaquen\source\repos\BodegaSosa\CapaNegocio\bin\Debug\CapaEntidad.dll
+C:\Users\MiguelMaquen\source\repos\BodegaSosa\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\MiguelMaquen\source\repos\BodegaSosa\CapaNegocio\bin\Debug\CapaDatos.xml
+C:\Users\MiguelMaquen\source\repos\BodegaSosa\CapaNegocio\bin\Debug\CapaEntidad.pdb
+C:\Users\MiguelMaquen\source\repos\BodegaSosa\CapaNegocio\bin\Debug\CapaEntidad.xml
+C:\Users\MiguelMaquen\source\repos\BodegaSosa\CapaNegocio\obj\Debug\CapaNegocio.vbproj.AssemblyReference.cache
+C:\Users\MiguelMaquen\source\repos\BodegaSosa\CapaNegocio\obj\Debug\CapaNegocio.Resources.resources
+C:\Users\MiguelMaquen\source\repos\BodegaSosa\CapaNegocio\obj\Debug\CapaNegocio.vbproj.GenerateResource.cache
+C:\Users\MiguelMaquen\source\repos\BodegaSosa\CapaNegocio\obj\Debug\CapaNegocio.vbproj.CoreCompileInputs.cache
+C:\Users\MiguelMaquen\source\repos\BodegaSosa\CapaNegocio\obj\Debug\CapaNegocio.vbproj.CopyComplete
+C:\Users\MiguelMaquen\source\repos\BodegaSosa\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\MiguelMaquen\source\repos\BodegaSosa\CapaNegocio\obj\Debug\CapaNegocio.xml
+C:\Users\MiguelMaquen\source\repos\BodegaSosa\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\MiguelMaquen\Desktop\PRUEBA DE LOGRO\BodegaSosa\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\MiguelMaquen\Desktop\PRUEBA DE LOGRO\BodegaSosa\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\MiguelMaquen\Desktop\PRUEBA DE LOGRO\BodegaSosa\CapaNegocio\bin\Debug\CapaNegocio.xml
+C:\Users\MiguelMaquen\Desktop\PRUEBA DE LOGRO\BodegaSosa\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\MiguelMaquen\Desktop\PRUEBA DE LOGRO\BodegaSosa\CapaNegocio\bin\Debug\CapaEntidad.dll
+C:\Users\MiguelMaquen\Desktop\PRUEBA DE LOGRO\BodegaSosa\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\MiguelMaquen\Desktop\PRUEBA DE LOGRO\BodegaSosa\CapaNegocio\bin\Debug\CapaDatos.xml
+C:\Users\MiguelMaquen\Desktop\PRUEBA DE LOGRO\BodegaSosa\CapaNegocio\bin\Debug\CapaEntidad.pdb
+C:\Users\MiguelMaquen\Desktop\PRUEBA DE LOGRO\BodegaSosa\CapaNegocio\bin\Debug\CapaEntidad.xml
+C:\Users\MiguelMaquen\Desktop\PRUEBA DE LOGRO\BodegaSosa\CapaNegocio\obj\Debug\CapaNegocio.vbproj.AssemblyReference.cache
+C:\Users\MiguelMaquen\Desktop\PRUEBA DE LOGRO\BodegaSosa\CapaNegocio\obj\Debug\CapaNegocio.Resources.resources
+C:\Users\MiguelMaquen\Desktop\PRUEBA DE LOGRO\BodegaSosa\CapaNegocio\obj\Debug\CapaNegocio.vbproj.GenerateResource.cache
+C:\Users\MiguelMaquen\Desktop\PRUEBA DE LOGRO\BodegaSosa\CapaNegocio\obj\Debug\CapaNegocio.vbproj.CoreCompileInputs.cache
+C:\Users\MiguelMaquen\Desktop\PRUEBA DE LOGRO\BodegaSosa\CapaNegocio\obj\Debug\CapaNegocio.vbproj.CopyComplete
+C:\Users\MiguelMaquen\Desktop\PRUEBA DE LOGRO\BodegaSosa\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\MiguelMaquen\Desktop\PRUEBA DE LOGRO\BodegaSosa\CapaNegocio\obj\Debug\CapaNegocio.xml
+C:\Users\MiguelMaquen\Desktop\PRUEBA DE LOGRO\BodegaSosa\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\MiguelMaquen\Desktop\PRUEBA DE LOGRO DIANA\TiendaMiCamilo\CapaNegocio\obj\Debug\CapaNegocio.vbproj.AssemblyReference.cache
+C:\Users\MiguelMaquen\Desktop\PRUEBA DE LOGRO DIANA\TiendaMiCamilo\CapaNegocio\obj\Debug\CapaNegocio.Resources.resources
+C:\Users\MiguelMaquen\Desktop\PRUEBA DE LOGRO DIANA\TiendaMiCamilo\CapaNegocio\obj\Debug\CapaNegocio.vbproj.GenerateResource.cache
+C:\Users\MiguelMaquen\Desktop\PRUEBA DE LOGRO DIANA\TiendaMiCamilo\CapaNegocio\obj\Debug\CapaNegocio.vbproj.CoreCompileInputs.cache
+C:\Users\MiguelMaquen\Desktop\PRUEBA DE LOGRO DIANA\TiendaMiCamilo\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\MiguelMaquen\Desktop\PRUEBA DE LOGRO DIANA\TiendaMiCamilo\CapaNegocio\obj\Debug\CapaNegocio.xml
+C:\Users\MiguelMaquen\Desktop\PRUEBA DE LOGRO DIANA\TiendaMiCamilo\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\MiguelMaquen\Desktop\PRUEBA DE LOGRO DIANA\TiendaMiCamilo\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\MiguelMaquen\Desktop\PRUEBA DE LOGRO DIANA\TiendaMiCamilo\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\MiguelMaquen\Desktop\PRUEBA DE LOGRO DIANA\TiendaMiCamilo\CapaNegocio\bin\Debug\CapaNegocio.xml
+C:\Users\MiguelMaquen\Desktop\PRUEBA DE LOGRO DIANA\TiendaMiCamilo\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\MiguelMaquen\Desktop\PRUEBA DE LOGRO DIANA\TiendaMiCamilo\CapaNegocio\bin\Debug\CapaEntidad.dll
+C:\Users\MiguelMaquen\Desktop\PRUEBA DE LOGRO DIANA\TiendaMiCamilo\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\MiguelMaquen\Desktop\PRUEBA DE LOGRO DIANA\TiendaMiCamilo\CapaNegocio\bin\Debug\CapaDatos.xml
+C:\Users\MiguelMaquen\Desktop\PRUEBA DE LOGRO DIANA\TiendaMiCamilo\CapaNegocio\bin\Debug\CapaEntidad.pdb
+C:\Users\MiguelMaquen\Desktop\PRUEBA DE LOGRO DIANA\TiendaMiCamilo\CapaNegocio\bin\Debug\CapaEntidad.xml
+C:\Users\MiguelMaquen\Desktop\PRUEBA DE LOGRO DIANA\TiendaMiCamilo\CapaNegocio\obj\Debug\CapaNegocio.vbproj.CopyComplete
+C:\Users\Lenovo\Downloads\PRUEBA DE LOGRO DIANA\TiendaMiCamilo\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\Lenovo\Downloads\PRUEBA DE LOGRO DIANA\TiendaMiCamilo\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\Lenovo\Downloads\PRUEBA DE LOGRO DIANA\TiendaMiCamilo\CapaNegocio\bin\Debug\CapaNegocio.xml
+C:\Users\Lenovo\Downloads\PRUEBA DE LOGRO DIANA\TiendaMiCamilo\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\Lenovo\Downloads\PRUEBA DE LOGRO DIANA\TiendaMiCamilo\CapaNegocio\bin\Debug\CapaEntidad.dll
+C:\Users\Lenovo\Downloads\PRUEBA DE LOGRO DIANA\TiendaMiCamilo\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\Lenovo\Downloads\PRUEBA DE LOGRO DIANA\TiendaMiCamilo\CapaNegocio\bin\Debug\CapaDatos.xml
+C:\Users\Lenovo\Downloads\PRUEBA DE LOGRO DIANA\TiendaMiCamilo\CapaNegocio\bin\Debug\CapaEntidad.pdb
+C:\Users\Lenovo\Downloads\PRUEBA DE LOGRO DIANA\TiendaMiCamilo\CapaNegocio\bin\Debug\CapaEntidad.xml
+C:\Users\Lenovo\Downloads\PRUEBA DE LOGRO DIANA\TiendaMiCamilo\CapaNegocio\obj\Debug\CapaNegocio.vbproj.AssemblyReference.cache
+C:\Users\Lenovo\Downloads\PRUEBA DE LOGRO DIANA\TiendaMiCamilo\CapaNegocio\obj\Debug\CapaNegocio.Resources.resources
+C:\Users\Lenovo\Downloads\PRUEBA DE LOGRO DIANA\TiendaMiCamilo\CapaNegocio\obj\Debug\CapaNegocio.vbproj.GenerateResource.cache
+C:\Users\Lenovo\Downloads\PRUEBA DE LOGRO DIANA\TiendaMiCamilo\CapaNegocio\obj\Debug\CapaNegocio.vbproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\PRUEBA DE LOGRO DIANA\TiendaMiCamilo\CapaNegocio\obj\Debug\CapaNegocio.vbproj.CopyComplete
+C:\Users\Lenovo\Downloads\PRUEBA DE LOGRO DIANA\TiendaMiCamilo\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\Lenovo\Downloads\PRUEBA DE LOGRO DIANA\TiendaMiCamilo\CapaNegocio\obj\Debug\CapaNegocio.xml
+C:\Users\Lenovo\Downloads\PRUEBA DE LOGRO DIANA\TiendaMiCamilo\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\Lenovo\Downloads\PRUEBA DE LOGRO DIANA\Boutique Cataleya\CapaNegocio\obj\Debug\CapaNegocio.vbproj.AssemblyReference.cache
+C:\Users\Lenovo\Downloads\PRUEBA DE LOGRO DIANA\Boutique Cataleya\CapaNegocio\obj\Debug\CapaNegocio.Resources.resources
+C:\Users\Lenovo\Downloads\PRUEBA DE LOGRO DIANA\Boutique Cataleya\CapaNegocio\obj\Debug\CapaNegocio.vbproj.GenerateResource.cache
+C:\Users\Lenovo\Downloads\PRUEBA DE LOGRO DIANA\Boutique Cataleya\CapaNegocio\obj\Debug\CapaNegocio.vbproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\PRUEBA DE LOGRO DIANA\Boutique Cataleya\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\Lenovo\Downloads\PRUEBA DE LOGRO DIANA\Boutique Cataleya\CapaNegocio\obj\Debug\CapaNegocio.xml
+C:\Users\Lenovo\Downloads\PRUEBA DE LOGRO DIANA\Boutique Cataleya\CapaNegocio\obj\Debug\CapaNegocio.pdb
+C:\Users\Lenovo\Downloads\PRUEBA DE LOGRO DIANA\Boutique Cataleya\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\Lenovo\Downloads\PRUEBA DE LOGRO DIANA\Boutique Cataleya\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\Lenovo\Downloads\PRUEBA DE LOGRO DIANA\Boutique Cataleya\CapaNegocio\bin\Debug\CapaNegocio.xml
+C:\Users\Lenovo\Downloads\PRUEBA DE LOGRO DIANA\Boutique Cataleya\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\Lenovo\Downloads\PRUEBA DE LOGRO DIANA\Boutique Cataleya\CapaNegocio\bin\Debug\CapaEntidad.dll
+C:\Users\Lenovo\Downloads\PRUEBA DE LOGRO DIANA\Boutique Cataleya\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\Lenovo\Downloads\PRUEBA DE LOGRO DIANA\Boutique Cataleya\CapaNegocio\bin\Debug\CapaDatos.xml
+C:\Users\Lenovo\Downloads\PRUEBA DE LOGRO DIANA\Boutique Cataleya\CapaNegocio\bin\Debug\CapaEntidad.pdb
+C:\Users\Lenovo\Downloads\PRUEBA DE LOGRO DIANA\Boutique Cataleya\CapaNegocio\bin\Debug\CapaEntidad.xml
+C:\Users\Lenovo\Downloads\PRUEBA DE LOGRO DIANA\Boutique Cataleya\CapaNegocio\obj\Debug\CapaNegocio.vbproj.CopyComplete
