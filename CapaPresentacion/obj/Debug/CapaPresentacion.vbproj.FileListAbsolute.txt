@@ -1,0 +1,190 @@
+D:\2022-II\AplicacionVB\AplicacionVB\bin\Debug\AplicacionVB.exe.config
+D:\2022-II\AplicacionVB\AplicacionVB\bin\Debug\AplicacionVB.exe
+D:\2022-II\AplicacionVB\AplicacionVB\bin\Debug\AplicacionVB.pdb
+D:\2022-II\AplicacionVB\AplicacionVB\bin\Debug\AplicacionVB.xml
+D:\2022-II\AplicacionVB\AplicacionVB\bin\Debug\FontAwesome.Sharp.dll
+D:\2022-II\AplicacionVB\AplicacionVB\obj\Debug\CapaPresentacion.vbproj.AssemblyReference.cache
+D:\2022-II\AplicacionVB\AplicacionVB\obj\Debug\AplicacionVB.Inicio.resources
+D:\2022-II\AplicacionVB\AplicacionVB\obj\Debug\AplicacionVB.Pantalla.resources
+D:\2022-II\AplicacionVB\AplicacionVB\obj\Debug\AplicacionVB.Resources.resources
+D:\2022-II\AplicacionVB\AplicacionVB\obj\Debug\AplicacionVB.Usuario.resources
+D:\2022-II\AplicacionVB\AplicacionVB\obj\Debug\CapaPresentacion.vbproj.GenerateResource.cache
+D:\2022-II\AplicacionVB\AplicacionVB\obj\Debug\CapaPresentacion.vbproj.CoreCompileInputs.cache
+D:\2022-II\AplicacionVB\AplicacionVB\obj\Debug\CapaPresentacion.vbproj.CopyComplete
+D:\2022-II\AplicacionVB\AplicacionVB\obj\Debug\AplicacionVB.exe
+D:\2022-II\AplicacionVB\AplicacionVB\obj\Debug\AplicacionVB.xml
+D:\2022-II\AplicacionVB\AplicacionVB\obj\Debug\AplicacionVB.pdb
+D:\2022-II\AplicacionVB\AplicacionVB\obj\Debug\AplicacionVB.Categorias.resources
+D:\2022-II\AplicacionVB\AplicacionVB\bin\Debug\CapaNegocio.dll
+D:\2022-II\AplicacionVB\AplicacionVB\bin\Debug\CapaNegocio.pdb
+D:\2022-II\AplicacionVB\AplicacionVB\bin\Debug\CapaNegocio.xml
+D:\2022-II\BodegaSosa\BodegaSosa\bin\Debug\AplicacionVB.exe.config
+D:\2022-II\BodegaSosa\BodegaSosa\bin\Debug\AplicacionVB.exe
+D:\2022-II\BodegaSosa\BodegaSosa\bin\Debug\AplicacionVB.pdb
+D:\2022-II\BodegaSosa\BodegaSosa\bin\Debug\AplicacionVB.xml
+D:\2022-II\BodegaSosa\BodegaSosa\bin\Debug\CapaNegocio.dll
+D:\2022-II\BodegaSosa\BodegaSosa\bin\Debug\FontAwesome.Sharp.dll
+D:\2022-II\BodegaSosa\BodegaSosa\bin\Debug\CapaNegocio.pdb
+D:\2022-II\BodegaSosa\BodegaSosa\bin\Debug\CapaNegocio.xml
+D:\2022-II\BodegaSosa\BodegaSosa\obj\Debug\CapaPresentacion.vbproj.AssemblyReference.cache
+D:\2022-II\BodegaSosa\BodegaSosa\obj\Debug\AplicacionVB.Categorias.resources
+D:\2022-II\BodegaSosa\BodegaSosa\obj\Debug\AplicacionVB.Inicio.resources
+D:\2022-II\BodegaSosa\BodegaSosa\obj\Debug\AplicacionVB.Pantalla.resources
+D:\2022-II\BodegaSosa\BodegaSosa\obj\Debug\AplicacionVB.Resources.resources
+D:\2022-II\BodegaSosa\BodegaSosa\obj\Debug\AplicacionVB.Usuario.resources
+D:\2022-II\BodegaSosa\BodegaSosa\obj\Debug\CapaPresentacion.vbproj.GenerateResource.cache
+D:\2022-II\BodegaSosa\BodegaSosa\obj\Debug\CapaPresentacion.vbproj.CoreCompileInputs.cache
+D:\2022-II\BodegaSosa\BodegaSosa\obj\Debug\CapaPresentacion.vbproj.CopyComplete
+D:\2022-II\BodegaSosa\BodegaSosa\obj\Debug\AplicacionVB.exe
+D:\2022-II\BodegaSosa\BodegaSosa\obj\Debug\AplicacionVB.xml
+D:\2022-II\BodegaSosa\BodegaSosa\obj\Debug\AplicacionVB.pdb
+D:\2022-II\BodegaSosa\BodegaSosa\bin\Debug\CapaDatos.dll
+D:\2022-II\BodegaSosa\BodegaSosa\bin\Debug\CapaEntidad.dll
+D:\2022-II\BodegaSosa\BodegaSosa\bin\Debug\CapaDatos.pdb
+D:\2022-II\BodegaSosa\BodegaSosa\bin\Debug\CapaDatos.xml
+D:\2022-II\BodegaSosa\BodegaSosa\bin\Debug\CapaEntidad.pdb
+D:\2022-II\BodegaSosa\BodegaSosa\bin\Debug\CapaEntidad.xml
+C:\Users\MiguelMaquen\source\repos\BodegaSosa\BodegaSosa\bin\Debug\AplicacionVB.exe.config
+C:\Users\MiguelMaquen\source\repos\BodegaSosa\BodegaSosa\bin\Debug\AplicacionVB.exe
+C:\Users\MiguelMaquen\source\repos\BodegaSosa\BodegaSosa\bin\Debug\AplicacionVB.pdb
+C:\Users\MiguelMaquen\source\repos\BodegaSosa\BodegaSosa\bin\Debug\AplicacionVB.xml
+C:\Users\MiguelMaquen\source\repos\BodegaSosa\BodegaSosa\bin\Debug\CapaNegocio.dll
+C:\Users\MiguelMaquen\source\repos\BodegaSosa\BodegaSosa\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\MiguelMaquen\source\repos\BodegaSosa\BodegaSosa\bin\Debug\CapaDatos.dll
+C:\Users\MiguelMaquen\source\repos\BodegaSosa\BodegaSosa\bin\Debug\CapaEntidad.dll
+C:\Users\MiguelMaquen\source\repos\BodegaSosa\BodegaSosa\bin\Debug\CapaNegocio.pdb
+C:\Users\MiguelMaquen\source\repos\BodegaSosa\BodegaSosa\bin\Debug\CapaNegocio.xml
+C:\Users\MiguelMaquen\source\repos\BodegaSosa\BodegaSosa\bin\Debug\CapaDatos.pdb
+C:\Users\MiguelMaquen\source\repos\BodegaSosa\BodegaSosa\bin\Debug\CapaDatos.xml
+C:\Users\MiguelMaquen\source\repos\BodegaSosa\BodegaSosa\bin\Debug\CapaEntidad.pdb
+C:\Users\MiguelMaquen\source\repos\BodegaSosa\BodegaSosa\bin\Debug\CapaEntidad.xml
+C:\Users\MiguelMaquen\source\repos\BodegaSosa\BodegaSosa\obj\Debug\CapaPresentacion.vbproj.AssemblyReference.cache
+C:\Users\MiguelMaquen\source\repos\BodegaSosa\BodegaSosa\obj\Debug\CapaPresentacion.vbproj.SuggestedBindingRedirects.cache
+C:\Users\MiguelMaquen\source\repos\BodegaSosa\BodegaSosa\obj\Debug\AplicacionVB.Categorias.resources
+C:\Users\MiguelMaquen\source\repos\BodegaSosa\BodegaSosa\obj\Debug\AplicacionVB.Inicio.resources
+C:\Users\MiguelMaquen\source\repos\BodegaSosa\BodegaSosa\obj\Debug\AplicacionVB.Pantalla.resources
+C:\Users\MiguelMaquen\source\repos\BodegaSosa\BodegaSosa\obj\Debug\AplicacionVB.Resources.resources
+C:\Users\MiguelMaquen\source\repos\BodegaSosa\BodegaSosa\obj\Debug\AplicacionVB.Usuario.resources
+C:\Users\MiguelMaquen\source\repos\BodegaSosa\BodegaSosa\obj\Debug\CapaPresentacion.vbproj.GenerateResource.cache
+C:\Users\MiguelMaquen\source\repos\BodegaSosa\BodegaSosa\obj\Debug\CapaPresentacion.vbproj.CoreCompileInputs.cache
+C:\Users\MiguelMaquen\source\repos\BodegaSosa\BodegaSosa\obj\Debug\CapaPresentacion.vbproj.CopyComplete
+C:\Users\MiguelMaquen\source\repos\BodegaSosa\BodegaSosa\obj\Debug\AplicacionVB.exe
+C:\Users\MiguelMaquen\source\repos\BodegaSosa\BodegaSosa\obj\Debug\AplicacionVB.xml
+C:\Users\MiguelMaquen\source\repos\BodegaSosa\BodegaSosa\obj\Debug\AplicacionVB.pdb
+C:\Users\MiguelMaquen\source\repos\BodegaSosa\BodegaSosa\obj\Debug\AplicacionVB.Articulos.resources
+C:\Users\MiguelMaquen\source\repos\BodegaSosa\BodegaSosa\obj\Debug\AplicacionVB.Ventas.resources
+C:\Users\MiguelMaquen\source\repos\BodegaSosa\BodegaSosa\obj\Debug\AplicacionVB.Reportes.resources
+C:\Users\MiguelMaquen\Desktop\PRUEBA DE LOGRO\BodegaSosa\BodegaSosa\bin\Debug\AplicacionVB.exe.config
+C:\Users\MiguelMaquen\Desktop\PRUEBA DE LOGRO\BodegaSosa\BodegaSosa\bin\Debug\AplicacionVB.exe
+C:\Users\MiguelMaquen\Desktop\PRUEBA DE LOGRO\BodegaSosa\BodegaSosa\bin\Debug\AplicacionVB.pdb
+C:\Users\MiguelMaquen\Desktop\PRUEBA DE LOGRO\BodegaSosa\BodegaSosa\bin\Debug\AplicacionVB.xml
+C:\Users\MiguelMaquen\Desktop\PRUEBA DE LOGRO\BodegaSosa\BodegaSosa\bin\Debug\CapaEntidad.dll
+C:\Users\MiguelMaquen\Desktop\PRUEBA DE LOGRO\BodegaSosa\BodegaSosa\bin\Debug\CapaNegocio.dll
+C:\Users\MiguelMaquen\Desktop\PRUEBA DE LOGRO\BodegaSosa\BodegaSosa\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\MiguelMaquen\Desktop\PRUEBA DE LOGRO\BodegaSosa\BodegaSosa\bin\Debug\CapaDatos.dll
+C:\Users\MiguelMaquen\Desktop\PRUEBA DE LOGRO\BodegaSosa\BodegaSosa\bin\Debug\CapaEntidad.pdb
+C:\Users\MiguelMaquen\Desktop\PRUEBA DE LOGRO\BodegaSosa\BodegaSosa\bin\Debug\CapaEntidad.xml
+C:\Users\MiguelMaquen\Desktop\PRUEBA DE LOGRO\BodegaSosa\BodegaSosa\bin\Debug\CapaNegocio.pdb
+C:\Users\MiguelMaquen\Desktop\PRUEBA DE LOGRO\BodegaSosa\BodegaSosa\bin\Debug\CapaNegocio.xml
+C:\Users\MiguelMaquen\Desktop\PRUEBA DE LOGRO\BodegaSosa\BodegaSosa\bin\Debug\CapaDatos.pdb
+C:\Users\MiguelMaquen\Desktop\PRUEBA DE LOGRO\BodegaSosa\BodegaSosa\bin\Debug\CapaDatos.xml
+C:\Users\MiguelMaquen\Desktop\PRUEBA DE LOGRO\BodegaSosa\BodegaSosa\obj\Debug\CapaPresentacion.vbproj.AssemblyReference.cache
+C:\Users\MiguelMaquen\Desktop\PRUEBA DE LOGRO\BodegaSosa\BodegaSosa\obj\Debug\CapaPresentacion.vbproj.SuggestedBindingRedirects.cache
+C:\Users\MiguelMaquen\Desktop\PRUEBA DE LOGRO\BodegaSosa\BodegaSosa\obj\Debug\AplicacionVB.Inicio.resources
+C:\Users\MiguelMaquen\Desktop\PRUEBA DE LOGRO\BodegaSosa\BodegaSosa\obj\Debug\AplicacionVB.Pantalla.resources
+C:\Users\MiguelMaquen\Desktop\PRUEBA DE LOGRO\BodegaSosa\BodegaSosa\obj\Debug\AplicacionVB.Resources.resources
+C:\Users\MiguelMaquen\Desktop\PRUEBA DE LOGRO\BodegaSosa\BodegaSosa\obj\Debug\CapaPresentacion.vbproj.GenerateResource.cache
+C:\Users\MiguelMaquen\Desktop\PRUEBA DE LOGRO\BodegaSosa\BodegaSosa\obj\Debug\CapaPresentacion.vbproj.CoreCompileInputs.cache
+C:\Users\MiguelMaquen\Desktop\PRUEBA DE LOGRO\BodegaSosa\BodegaSosa\obj\Debug\CapaPresentacion.vbproj.CopyComplete
+C:\Users\MiguelMaquen\Desktop\PRUEBA DE LOGRO\BodegaSosa\BodegaSosa\obj\Debug\AplicacionVB.exe
+C:\Users\MiguelMaquen\Desktop\PRUEBA DE LOGRO\BodegaSosa\BodegaSosa\obj\Debug\AplicacionVB.xml
+C:\Users\MiguelMaquen\Desktop\PRUEBA DE LOGRO\BodegaSosa\BodegaSosa\obj\Debug\AplicacionVB.pdb
+C:\Users\MiguelMaquen\Desktop\PRUEBA DE LOGRO\BodegaSosa\BodegaSosa\obj\Debug\AplicacionVB.Clientes.resources
+C:\Users\MiguelMaquen\Desktop\PRUEBA DE LOGRO\BodegaSosa\BodegaSosa\obj\Debug\AplicacionVB.DetalleFactura.resources
+C:\Users\MiguelMaquen\Desktop\PRUEBA DE LOGRO\BodegaSosa\BodegaSosa\obj\Debug\AplicacionVB.Empleado.resources
+C:\Users\MiguelMaquen\Desktop\PRUEBA DE LOGRO\BodegaSosa\BodegaSosa\obj\Debug\AplicacionVB.Establecimiento.resources
+C:\Users\MiguelMaquen\Desktop\PRUEBA DE LOGRO\BodegaSosa\BodegaSosa\obj\Debug\AplicacionVB.Reservas.resources
+C:\Users\MiguelMaquen\Desktop\PRUEBA DE LOGRO DIANA\TiendaMiCamilo\CapaPresentacion\bin\Debug\AplicacionVB.exe.config
+C:\Users\MiguelMaquen\Desktop\PRUEBA DE LOGRO DIANA\TiendaMiCamilo\CapaPresentacion\bin\Debug\AplicacionVB.exe
+C:\Users\MiguelMaquen\Desktop\PRUEBA DE LOGRO DIANA\TiendaMiCamilo\CapaPresentacion\bin\Debug\AplicacionVB.pdb
+C:\Users\MiguelMaquen\Desktop\PRUEBA DE LOGRO DIANA\TiendaMiCamilo\CapaPresentacion\bin\Debug\AplicacionVB.xml
+C:\Users\MiguelMaquen\Desktop\PRUEBA DE LOGRO DIANA\TiendaMiCamilo\CapaPresentacion\bin\Debug\CapaEntidad.dll
+C:\Users\MiguelMaquen\Desktop\PRUEBA DE LOGRO DIANA\TiendaMiCamilo\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\MiguelMaquen\Desktop\PRUEBA DE LOGRO DIANA\TiendaMiCamilo\CapaPresentacion\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\MiguelMaquen\Desktop\PRUEBA DE LOGRO DIANA\TiendaMiCamilo\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\MiguelMaquen\Desktop\PRUEBA DE LOGRO DIANA\TiendaMiCamilo\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+C:\Users\MiguelMaquen\Desktop\PRUEBA DE LOGRO DIANA\TiendaMiCamilo\CapaPresentacion\bin\Debug\CapaEntidad.xml
+C:\Users\MiguelMaquen\Desktop\PRUEBA DE LOGRO DIANA\TiendaMiCamilo\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\MiguelMaquen\Desktop\PRUEBA DE LOGRO DIANA\TiendaMiCamilo\CapaPresentacion\bin\Debug\CapaNegocio.xml
+C:\Users\MiguelMaquen\Desktop\PRUEBA DE LOGRO DIANA\TiendaMiCamilo\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\MiguelMaquen\Desktop\PRUEBA DE LOGRO DIANA\TiendaMiCamilo\CapaPresentacion\bin\Debug\CapaDatos.xml
+C:\Users\MiguelMaquen\Desktop\PRUEBA DE LOGRO DIANA\TiendaMiCamilo\CapaPresentacion\obj\Debug\CapaPresentacion.vbproj.AssemblyReference.cache
+C:\Users\MiguelMaquen\Desktop\PRUEBA DE LOGRO DIANA\TiendaMiCamilo\CapaPresentacion\obj\Debug\CapaPresentacion.vbproj.SuggestedBindingRedirects.cache
+C:\Users\MiguelMaquen\Desktop\PRUEBA DE LOGRO DIANA\TiendaMiCamilo\CapaPresentacion\obj\Debug\AplicacionVB.Pantalla.resources
+C:\Users\MiguelMaquen\Desktop\PRUEBA DE LOGRO DIANA\TiendaMiCamilo\CapaPresentacion\obj\Debug\AplicacionVB.Resources.resources
+C:\Users\MiguelMaquen\Desktop\PRUEBA DE LOGRO DIANA\TiendaMiCamilo\CapaPresentacion\obj\Debug\CapaPresentacion.vbproj.GenerateResource.cache
+C:\Users\MiguelMaquen\Desktop\PRUEBA DE LOGRO DIANA\TiendaMiCamilo\CapaPresentacion\obj\Debug\CapaPresentacion.vbproj.CoreCompileInputs.cache
+C:\Users\MiguelMaquen\Desktop\PRUEBA DE LOGRO DIANA\TiendaMiCamilo\CapaPresentacion\obj\Debug\CapaPresentacion.vbproj.CopyComplete
+C:\Users\MiguelMaquen\Desktop\PRUEBA DE LOGRO DIANA\TiendaMiCamilo\CapaPresentacion\obj\Debug\AplicacionVB.exe
+C:\Users\MiguelMaquen\Desktop\PRUEBA DE LOGRO DIANA\TiendaMiCamilo\CapaPresentacion\obj\Debug\AplicacionVB.xml
+C:\Users\MiguelMaquen\Desktop\PRUEBA DE LOGRO DIANA\TiendaMiCamilo\CapaPresentacion\obj\Debug\AplicacionVB.pdb
+C:\Users\MiguelMaquen\Desktop\PRUEBA DE LOGRO DIANA\TiendaMiCamilo\CapaPresentacion\obj\Debug\AplicacionVB.Marca.resources
+C:\Users\MiguelMaquen\Desktop\PRUEBA DE LOGRO DIANA\TiendaMiCamilo\CapaPresentacion\obj\Debug\AplicacionVB.Prenda.resources
+C:\Users\MiguelMaquen\Desktop\PRUEBA DE LOGRO DIANA\TiendaMiCamilo\CapaPresentacion\obj\Debug\AplicacionVB.Producto.resources
+C:\Users\MiguelMaquen\Desktop\PRUEBA DE LOGRO DIANA\TiendaMiCamilo\CapaPresentacion\obj\Debug\AplicacionVB.Proveedor.resources
+C:\Users\Lenovo\Downloads\PRUEBA DE LOGRO DIANA\TiendaMiCamilo\CapaPresentacion\bin\Debug\AplicacionVB.exe.config
+C:\Users\Lenovo\Downloads\PRUEBA DE LOGRO DIANA\TiendaMiCamilo\CapaPresentacion\bin\Debug\AplicacionVB.exe
+C:\Users\Lenovo\Downloads\PRUEBA DE LOGRO DIANA\TiendaMiCamilo\CapaPresentacion\bin\Debug\AplicacionVB.pdb
+C:\Users\Lenovo\Downloads\PRUEBA DE LOGRO DIANA\TiendaMiCamilo\CapaPresentacion\bin\Debug\AplicacionVB.xml
+C:\Users\Lenovo\Downloads\PRUEBA DE LOGRO DIANA\TiendaMiCamilo\CapaPresentacion\bin\Debug\CapaEntidad.dll
+C:\Users\Lenovo\Downloads\PRUEBA DE LOGRO DIANA\TiendaMiCamilo\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\Lenovo\Downloads\PRUEBA DE LOGRO DIANA\TiendaMiCamilo\CapaPresentacion\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Lenovo\Downloads\PRUEBA DE LOGRO DIANA\TiendaMiCamilo\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\Lenovo\Downloads\PRUEBA DE LOGRO DIANA\TiendaMiCamilo\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+C:\Users\Lenovo\Downloads\PRUEBA DE LOGRO DIANA\TiendaMiCamilo\CapaPresentacion\bin\Debug\CapaEntidad.xml
+C:\Users\Lenovo\Downloads\PRUEBA DE LOGRO DIANA\TiendaMiCamilo\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\Lenovo\Downloads\PRUEBA DE LOGRO DIANA\TiendaMiCamilo\CapaPresentacion\bin\Debug\CapaNegocio.xml
+C:\Users\Lenovo\Downloads\PRUEBA DE LOGRO DIANA\TiendaMiCamilo\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\Lenovo\Downloads\PRUEBA DE LOGRO DIANA\TiendaMiCamilo\CapaPresentacion\bin\Debug\CapaDatos.xml
+C:\Users\Lenovo\Downloads\PRUEBA DE LOGRO DIANA\TiendaMiCamilo\CapaPresentacion\obj\Debug\CapaPresentacion.vbproj.AssemblyReference.cache
+C:\Users\Lenovo\Downloads\PRUEBA DE LOGRO DIANA\TiendaMiCamilo\CapaPresentacion\obj\Debug\CapaPresentacion.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\Downloads\PRUEBA DE LOGRO DIANA\TiendaMiCamilo\CapaPresentacion\obj\Debug\AplicacionVB.Prenda.resources
+C:\Users\Lenovo\Downloads\PRUEBA DE LOGRO DIANA\TiendaMiCamilo\CapaPresentacion\obj\Debug\AplicacionVB.Marca.resources
+C:\Users\Lenovo\Downloads\PRUEBA DE LOGRO DIANA\TiendaMiCamilo\CapaPresentacion\obj\Debug\AplicacionVB.Producto.resources
+C:\Users\Lenovo\Downloads\PRUEBA DE LOGRO DIANA\TiendaMiCamilo\CapaPresentacion\obj\Debug\AplicacionVB.Pantalla.resources
+C:\Users\Lenovo\Downloads\PRUEBA DE LOGRO DIANA\TiendaMiCamilo\CapaPresentacion\obj\Debug\AplicacionVB.Resources.resources
+C:\Users\Lenovo\Downloads\PRUEBA DE LOGRO DIANA\TiendaMiCamilo\CapaPresentacion\obj\Debug\AplicacionVB.Proveedor.resources
+C:\Users\Lenovo\Downloads\PRUEBA DE LOGRO DIANA\TiendaMiCamilo\CapaPresentacion\obj\Debug\CapaPresentacion.vbproj.GenerateResource.cache
+C:\Users\Lenovo\Downloads\PRUEBA DE LOGRO DIANA\TiendaMiCamilo\CapaPresentacion\obj\Debug\CapaPresentacion.vbproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\PRUEBA DE LOGRO DIANA\TiendaMiCamilo\CapaPresentacion\obj\Debug\CapaPresentacion.vbproj.CopyComplete
+C:\Users\Lenovo\Downloads\PRUEBA DE LOGRO DIANA\TiendaMiCamilo\CapaPresentacion\obj\Debug\AplicacionVB.exe
+C:\Users\Lenovo\Downloads\PRUEBA DE LOGRO DIANA\TiendaMiCamilo\CapaPresentacion\obj\Debug\AplicacionVB.xml
+C:\Users\Lenovo\Downloads\PRUEBA DE LOGRO DIANA\TiendaMiCamilo\CapaPresentacion\obj\Debug\AplicacionVB.pdb
+C:\Users\Lenovo\Downloads\PRUEBA DE LOGRO DIANA\Boutique Cataleya\CapaPresentacion\bin\Debug\AplicacionVB.exe.config
+C:\Users\Lenovo\Downloads\PRUEBA DE LOGRO DIANA\Boutique Cataleya\CapaPresentacion\bin\Debug\AplicacionVB.exe
+C:\Users\Lenovo\Downloads\PRUEBA DE LOGRO DIANA\Boutique Cataleya\CapaPresentacion\bin\Debug\AplicacionVB.pdb
+C:\Users\Lenovo\Downloads\PRUEBA DE LOGRO DIANA\Boutique Cataleya\CapaPresentacion\bin\Debug\AplicacionVB.xml
+C:\Users\Lenovo\Downloads\PRUEBA DE LOGRO DIANA\Boutique Cataleya\CapaPresentacion\bin\Debug\CapaEntidad.dll
+C:\Users\Lenovo\Downloads\PRUEBA DE LOGRO DIANA\Boutique Cataleya\CapaPresentacion\bin\Debug\CapaNegocio.dll
+C:\Users\Lenovo\Downloads\PRUEBA DE LOGRO DIANA\Boutique Cataleya\CapaPresentacion\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Lenovo\Downloads\PRUEBA DE LOGRO DIANA\Boutique Cataleya\CapaPresentacion\bin\Debug\CapaDatos.dll
+C:\Users\Lenovo\Downloads\PRUEBA DE LOGRO DIANA\Boutique Cataleya\CapaPresentacion\bin\Debug\CapaEntidad.pdb
+C:\Users\Lenovo\Downloads\PRUEBA DE LOGRO DIANA\Boutique Cataleya\CapaPresentacion\bin\Debug\CapaEntidad.xml
+C:\Users\Lenovo\Downloads\PRUEBA DE LOGRO DIANA\Boutique Cataleya\CapaPresentacion\bin\Debug\CapaNegocio.pdb
+C:\Users\Lenovo\Downloads\PRUEBA DE LOGRO DIANA\Boutique Cataleya\CapaPresentacion\bin\Debug\CapaNegocio.xml
+C:\Users\Lenovo\Downloads\PRUEBA DE LOGRO DIANA\Boutique Cataleya\CapaPresentacion\bin\Debug\CapaDatos.pdb
+C:\Users\Lenovo\Downloads\PRUEBA DE LOGRO DIANA\Boutique Cataleya\CapaPresentacion\bin\Debug\CapaDatos.xml
+C:\Users\Lenovo\Downloads\PRUEBA DE LOGRO DIANA\Boutique Cataleya\CapaPresentacion\obj\Debug\CapaPresentacion.vbproj.AssemblyReference.cache
+C:\Users\Lenovo\Downloads\PRUEBA DE LOGRO DIANA\Boutique Cataleya\CapaPresentacion\obj\Debug\CapaPresentacion.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\Downloads\PRUEBA DE LOGRO DIANA\Boutique Cataleya\CapaPresentacion\obj\Debug\AplicacionVB.Prenda.resources
+C:\Users\Lenovo\Downloads\PRUEBA DE LOGRO DIANA\Boutique Cataleya\CapaPresentacion\obj\Debug\AplicacionVB.Marca.resources
+C:\Users\Lenovo\Downloads\PRUEBA DE LOGRO DIANA\Boutique Cataleya\CapaPresentacion\obj\Debug\AplicacionVB.Producto.resources
+C:\Users\Lenovo\Downloads\PRUEBA DE LOGRO DIANA\Boutique Cataleya\CapaPresentacion\obj\Debug\AplicacionVB.Pantalla.resources
+C:\Users\Lenovo\Downloads\PRUEBA DE LOGRO DIANA\Boutique Cataleya\CapaPresentacion\obj\Debug\AplicacionVB.Resources.resources
+C:\Users\Lenovo\Downloads\PRUEBA DE LOGRO DIANA\Boutique Cataleya\CapaPresentacion\obj\Debug\AplicacionVB.Proveedor.resources
+C:\Users\Lenovo\Downloads\PRUEBA DE LOGRO DIANA\Boutique Cataleya\CapaPresentacion\obj\Debug\CapaPresentacion.vbproj.GenerateResource.cache
+C:\Users\Lenovo\Downloads\PRUEBA DE LOGRO DIANA\Boutique Cataleya\CapaPresentacion\obj\Debug\CapaPresentacion.vbproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\PRUEBA DE LOGRO DIANA\Boutique Cataleya\CapaPresentacion\obj\Debug\CapaPresentacion.vbproj.CopyComplete
+C:\Users\Lenovo\Downloads\PRUEBA DE LOGRO DIANA\Boutique Cataleya\CapaPresentacion\obj\Debug\AplicacionVB.exe
+C:\Users\Lenovo\Downloads\PRUEBA DE LOGRO DIANA\Boutique Cataleya\CapaPresentacion\obj\Debug\AplicacionVB.xml
+C:\Users\Lenovo\Downloads\PRUEBA DE LOGRO DIANA\Boutique Cataleya\CapaPresentacion\obj\Debug\AplicacionVB.pdb
